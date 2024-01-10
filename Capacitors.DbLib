@@ -1,0 +1,47 @@
+[OutputDatabaseLinkFile]
+Version=1.1
+[DatabaseLinks]
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=F:\AD18\RTE (2023-11-26 11-13-03)\4-Library\Capacitors.mdb;Persist Security Info=False
+AddMode=3
+RemoveMode=1
+UpdateMode=2
+ViewMode=1
+LeftQuote=[
+RightQuote=]
+QuoteTableNames=1
+UseTableSchemaName=0
+DefaultColumnType=VARCHAR(255)
+LibraryDatabaseType=Microsoft Access
+LibraryDatabasePath=Capacitors.mdb
+DatabasePathRelative=1
+TopPanelCollapsed=0
+LibrarySearchPath=
+OrcadMultiValueDelimiter=,
+SearchSubDirectories=0
+SchemaName=
+LastFocusedTable=Capacitors SMD
+[Table1]
+SchemaName=
+TableName=Capacitors SMD
+Enabled=True
+UserWhere=0
+UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=190|Library Ref0=139|Library Path0=135|Footprint Path0=162|Footprint Ref0=100|Comment0=72|Component Kind0=110|Component Type0=111|Footprint0=100|Pin Count0=74|PackageDescription0=124|Value0=52|Status0=55|Voltage0=63|TC0=36|Tolerance0=73|Part Description0=459|Manufacturer0=93|Manufacturer Part Number0=190|Case0=47|Mounted0=71|Socket0=57|SMD0=47|ComponentHeight0=119|Manufacturer1 Example0=144|Manufacturer1 Part Number0=166|Manufacturer1 ComponentHeight0=198|HelpURL0=67|Author0=66|CreateDate0=80|LatestRevisionDate0=120|Table0=89
+[Table2]
+SchemaName=
+TableName=Capacitors THD
+Enabled=False
+UserWhere=0
+UserWhereText=
+[FieldMap1]
+Options=FieldName=Capacitors SMD.Part Number|TableNameOnly=Capacitors SMD|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap2]
+Options=FieldName=Capacitors SMD.Library Ref|TableNameOnly=Capacitors SMD|FieldNameOnly=Library Ref|FieldType=1|ParameterName=[Library Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap3]
+Options=FieldName=Capacitors SMD.Library Path|TableNameOnly=Capacitors SMD|FieldNameOnly=Library Path|FieldType=1|ParameterName=[Library Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap4]
+Options=FieldName=Capacitors SMD.Footprint Path|TableNameOnly=Capacitors SMD|FieldNameOnly=Footprint Path|FieldType=1|ParameterName=[Footprint Path]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+[FieldMap5]
+Options=FieldName=Capacitors SMD.Footprint Ref|TableNameOnly=Capacitors SMD|FieldNameOnly=Footprint Ref|FieldType=1|ParameterName=[Footprint Ref]|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
