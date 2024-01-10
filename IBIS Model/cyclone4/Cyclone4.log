@@ -1,0 +1,56 @@
+WARNING - Model '3p3_o_initdone': TYP VI curves cannot drive through Vmeas=1.5425V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p3_o_initdone': MIN VI curves cannot drive through Vmeas=1.5425V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p3_o_initdone': MAX VI curves cannot drive through Vmeas=1.5425V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p3_o_crcerror': TYP VI curves cannot drive through Vmeas=1.5425V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p3_o_crcerror': MIN VI curves cannot drive through Vmeas=1.5425V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p3_o_crcerror': MAX VI curves cannot drive through Vmeas=1.5425V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p3_io_nstatus': MIN VI curves cannot drive through Vmeas=1.5425V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p3_io_condone': MIN VI curves cannot drive through Vmeas=1.5425V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p0_o_initdone': TYP VI curves cannot drive through Vmeas=1.4V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p0_o_initdone': MIN VI curves cannot drive through Vmeas=1.4V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p0_o_initdone': MAX VI curves cannot drive through Vmeas=1.4V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p0_o_crcerror': TYP VI curves cannot drive through Vmeas=1.4V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p0_o_crcerror': MIN VI curves cannot drive through Vmeas=1.4V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p0_o_crcerror': MAX VI curves cannot drive through Vmeas=1.4V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p0_io_nstatus': MIN VI curves cannot drive through Vmeas=1.4V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '3p0_io_condone': MIN VI curves cannot drive through Vmeas=1.4V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '2p5_o_initdone': TYP VI curves cannot drive through Vmeas=1.1625V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '2p5_o_initdone': MIN VI curves cannot drive through Vmeas=1.1625V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '2p5_o_initdone': MAX VI curves cannot drive through Vmeas=1.1625V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '2p5_o_crcerror': TYP VI curves cannot drive through Vmeas=1.1625V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '2p5_o_crcerror': MIN VI curves cannot drive through Vmeas=1.1625V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '2p5_o_crcerror': MAX VI curves cannot drive through Vmeas=1.1625V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '1p8_o_initdone': TYP VI curves cannot drive through Vmeas=0.83V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '1p8_o_initdone': MIN VI curves cannot drive through Vmeas=0.83V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '1p8_o_initdone': MAX VI curves cannot drive through Vmeas=0.83V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '1p8_o_crcerror': TYP VI curves cannot drive through Vmeas=0.83V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '1p8_o_crcerror': MIN VI curves cannot drive through Vmeas=0.83V
+          given load Rref=1e+07 Ohms to Vref=0V
+WARNING - Model '1p8_o_crcerror': MAX VI curves cannot drive through Vmeas=0.83V
+          given load Rref=1e+07 Ohms to Vref=0V
